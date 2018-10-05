@@ -1,0 +1,1 @@
+CREATE TABLE `Hotel`.`kartei` ( `id` INT NOT NULL AUTO_INCREMENT , `gender` VARCHAR(20) NOT NULL , `company` VARCHAR(50) NOT NULL , `name` VARCHAR(50) NOT NULL , `surename` VARCHAR(50) NOT NULL , `street,no` VARCHAR(50) NOT NULL , `citycode` INT(8) NOT NULL , `city` VARCHAR(50) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;

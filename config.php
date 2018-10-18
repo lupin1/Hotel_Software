@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("127.0.0.1", "root", "landstreicher", "database");
+$conn = mysqli_connect("127.0.0.1", "root", "landstreicher", "pw");
 
         if(!$conn) {
           die("Fehler im System");

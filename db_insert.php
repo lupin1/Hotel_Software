@@ -36,6 +36,4 @@ mysqli_query($conn,$eintrag);
 
 header("refresh:0000.1; url=card.php");
 
-//header("Location: card.php");
-
 ?>
